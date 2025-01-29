@@ -1,7 +1,7 @@
 # Aquí voy a colocar la documentación
 
-## <details>
-  <summary>**Librerías**</summary>
+<details>
+  <summary><strong>Librerías</strong></summary>
 
   - **Matplotlib**
   - **Pandas**
