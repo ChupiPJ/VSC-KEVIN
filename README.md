@@ -1,5 +1,14 @@
-# Aqui voy a colocar la documentacion
+# Aquí voy a colocar la documentación
 
-# **Librerias**
-- **Matplotlib**
-- **Pandas**
+## <details>
+  <summary>**Librerías**</summary>
+
+  - **Matplotlib**
+  - **Pandas**
+
+</details>
+
+```python
+if __name__ == '__main__':
+    main(); 
+```
